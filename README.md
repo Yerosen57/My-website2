@@ -54,8 +54,8 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-    <p>Phone: +123 456 7890</p>
+    <p>Email: <a href="mailto:yerosenteklu157@gmail.com@example.com">youremail@example.com</a></p>
+    <p>Phone: +2519663594</p>
   </section>
 
   <footer>
