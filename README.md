@@ -1,1 +1,65 @@
 # My-website2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f5;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header h1 { margin: 0; }
+    section { padding: 20px; max-width: 800px; margin: auto; }
+    .project {
+      background-color: white;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .project a { color: #4CAF50; text-decoration: none; }
+    footer { text-align: center; padding: 15px; background-color: #333; color: white; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hi, I'm [Your Name]</h1>
+    <p>Web Developer & Tech Enthusiast</p>
+  </header>
+
+  <section id="projects">
+    <h2>My Projects</h2>
+    <div class="project">
+      <h3>Project 1</h3>
+      <p>Short description of your project.</p>
+      <a href="#">View Project</a>
+    </div>
+    <div class="project">
+      <h3>Project 2</h3>
+      <p>Short description of your project.</p>
+      <a href="#">View Project</a>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p>Phone: +123 456 7890</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 [Your Name]</p>
+  </footer>
+</body>
+</html>
